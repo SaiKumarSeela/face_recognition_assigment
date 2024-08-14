@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy 
+jinja2
+opencv-python 
+deepface
+tf-keras
+python-multipart
+mtcnn
+matplotlib
+keras-facenet
+scikit-learn
+joblib
